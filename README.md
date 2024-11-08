@@ -1,6 +1,7 @@
 # shake_plus
 
 A flutter package to detect phone shakes.
+Updated package using version `sensors_plus: ^6.1.0`.
 
 To listen to phone shake:
 
