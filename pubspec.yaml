@@ -1,0 +1,20 @@
+name: shake_plus
+description: "A flutter package to detect phone shakes. Adjustable G-force and reset periods."
+homepage: "https://github.com/tyypgzl/shake_plus"
+issue_tracker: "https://github.com/tyypgzl/shake_plus/issues"
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  sensors_plus: ^6.1.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
